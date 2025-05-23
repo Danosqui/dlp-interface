@@ -1,5 +1,7 @@
 # Descargador de YouTube
 
+buscas la [descarga?](https://github.com/Danosqui/dlp-interface/releases/tag/release)
+
 Aplicacion grafica para descargar videos de youtube usando yt-dlp de forma mas comoda.
 
 ## Requisitos
